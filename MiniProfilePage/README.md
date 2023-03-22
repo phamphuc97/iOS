@@ -1,7 +1,4 @@
 # MiniProfilePage
-Made this homework for kids in the CalHacks iOs decal to get used to SwiftUI.
 
-Final proj looks like this!
-
-https://user-images.githubusercontent.com/29685826/218858682-421f2eb5-3cb1-41ad-bed4-ae7dd1611601.MOV
+This repository contains the code and resources for Homework 2 of the iOS Development course at Cubstart. The goal of this homework is to create a simple iOS app that uses SwiftUI components to display a user interface and respond to user input.
 
